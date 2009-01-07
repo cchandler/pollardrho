@@ -1,0 +1,5 @@
+This is meant to be a very basic implementation of Pollard's Rho algorithms.
+
+I plan on refactoring these into something resembling a more proper Erlang program.
+
+Ultimately this was meant to test Erlang's power with regard to arbitrary sized integer arithmetic.
